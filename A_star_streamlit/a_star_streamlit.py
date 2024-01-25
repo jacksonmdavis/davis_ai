@@ -68,7 +68,8 @@ def print_explanation():
     with left_column:
         st.write('A quick intro:')
         st.write('This is an interactive example of the A* path finding algorithm. It is a heuristic search algorithm that finds the shortest path between two points on a grid. \
-                 It is commonly used in video games, for example, to find the shortest path between two points on a map.')
+                 It is commonly used in video games or mapping software, for example, to find the shortest path between two points on a map.  All controls for this example are \
+                 on the left sidebar.')
 
     with right_column:
         st.write(':blue[Path costs:]')
