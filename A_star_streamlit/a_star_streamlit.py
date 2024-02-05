@@ -90,7 +90,8 @@ if 'status' not in st.session_state:
 
 # This will always be printed
 st.header('Welcome to the :blue[A* path finding algorithm!]')
-st.write('Help Franklin find his way to his birthday present! 😀')
+st.write("This is Franklin: 😀  Today is Franklin's birthday!")
+st.write('Help Franklin find his way to his birthday present! 🎁')
 st.divider()
 
 # From here on everything is state dependent:
