@@ -2,6 +2,4 @@ This is a collection of some of the AI/ML code I have been working on as part of
 
 The `kNN_and_parameter_tuning` notebook, while simple, serves as a better example of more recent work, particularly in the documentation and testing.
 
-Finally, the `A_star_streamlit` folder contains the code for a small but fun little web app written using Streamlit.  The working app can be viewed at https://davis-astar.streamlit.app/
-
 For more info about me or to contact, check out https://www.sevenhillsmt.com/jackson-portfolio
